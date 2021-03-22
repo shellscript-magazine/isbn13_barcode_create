@@ -6,5 +6,5 @@ $ pip3 install python-barcode
 
 「barcode_create.py」は、次のように実行します
 
-$ python3 barcode_create.py ISBN番号 ファイル名
+$ python3 barcode_create.py ISBN13の番号 ファイル名
 
