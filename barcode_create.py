@@ -1,4 +1,4 @@
-# ISBN13 Barcode's create program for Linux OS
+# ISBN13 Barcode's create program for Raspberry Pi OS
 # pip3 install python-barcode
 # $ python3 barcode_create.py [ISBN13] [Vol numbar(example:vol68)]
 # Two files is created, SVG and Png. 
