@@ -6,5 +6,5 @@ $ pip3 install python-barcode
 
 「barcode_create.py」は、次のように実行します
 
-$ python3 barcode_create.py <font color="blue">ISBN13の番号</font> <span style="color: blue; ">ファイル名</span>
+$ python3 barcode_create.py ISBN13の番号 ファイル名
 
